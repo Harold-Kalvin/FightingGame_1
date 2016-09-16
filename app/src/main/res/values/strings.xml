@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_battle">Battle</string>
+    <string name="title_activity_battle_solo">battleSolo</string>
+    <string name="title_activity_character_selection">CharacterSelection</string>
+    <string name="title_activity_character_selection1">CharacterSelection1</string>
+    <string name="title_activity_battle1">Battle1</string>
+</resources>
